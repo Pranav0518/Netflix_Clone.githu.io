@@ -1,1 +1,1 @@
-# Netflix_Clone.githu.io
+# Netflix_Clone.github.io
